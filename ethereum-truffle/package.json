@@ -1,0 +1,17 @@
+{
+  "name": "eth-todo-list",
+  "version": "1.0.0",
+  "description": "Blockchain Todo List Powered By Ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && sexit 1"
+  },
+  "devDependencies": {
+    "truffle": "5.0.2",
+    "truffle-contract": "3.0.6"
+  }
+}
